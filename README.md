@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- -- Matt Willtrout
+- 😄 Pronouns: he/him
+- 🌱 I’m currently learning C++ and Java
 <!--
 **willtrout/willtrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
